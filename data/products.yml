@@ -1,7 +1,7 @@
 en:
   title: <span>Engine</span>
   backgroundTitle: Evolution
-  portText: Evolution Engine is a <span>look into the past </span> in an attempt to understand <span>emergent behaviors.</span>
+  portText: Evolution Engine is a look into the past in an attempt to understandemergent behaviors.
   theme:
     - coverImage: /media/00-stairs.jpg
       cSlug: c1
