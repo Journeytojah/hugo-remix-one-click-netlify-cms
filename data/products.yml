@@ -1,65 +1,26 @@
 en:
-  title: <span>Features</span>
-  backgroundTitle: Features
-  portText: Ipsum cillum sint fugiat esse ipsum commodo. Fugiat laborum qui aliqua in.
+  title: <span>Engine</span>
+  backgroundTitle: Evolution
+  portText: Evolution Engine is a <span>look into the past </span> in an attempt to understand <span>emergent behaviors.</span>
   theme:
     - coverImage: /media/00-stairs.jpg
       cSlug: c1
-      name: Lorem ipsum ea voluptate
+      name: NEAT Genetic Algorithm
       description: |
-        Nulla magna eiusmod ea eu irure exercitation non incididunt.
+        NEAT is a genetic algorithm that evolves neural networks. It is a method for evolving arbitrary neural networks. This means neuroevolution can be applied to any task that has a well-defined measure of success, as long as a training set of examples can be generated. NEAT is also quite effective at evolving neural networks with multiple outputs, which can solve problems that other neuroevolution techniques cannot.
     - coverImage: /media/wave.jpg
       cSlug: c3
-      name: Cupidatat pariatur pariat
-      description: Consectetur pariatur deserunt in occaecat cillum id laboris proident ex irure sint amet id. Est ut dolore et exercitation. Dolor ex id ut proident ut pariatur est. Incididunt pariatur aliquip eu velit incididunt culpa adipisicing velit et excepteur est enim.
+      name: Environment
+      description: The environment is a 2D world with a population of creatures. Each creature has a neural network that controls its movement. The creatures are rewarded for moving towards food. The neural network is given information about the creature's environment, such as the direction and distance to food. The creatures are also rewarded for staying alive, which is done by giving them a small bonus each time step.
     - coverImage: /media/fog.jpg
       cSlug: c4
-      name: Aute elit minim magna
-      description: Est ut dolore et exercitation. Dolor ex id ut proident ut pariatur est. Incididunt pariatur aliquip eu velit incididunt culpa adipisicing velit et excepteur est enim.
+      name: Emergent Behavior
+      description: Emergent behavior is behavior of a system that does not depend on its individual parts, but on their relationships to one another. The creatures in this simulation are not explicitly programmed to move towards food. Instead, they learn to do so through the process of natural selection. This is an example of emergent behavior.
     - coverImage: /media/sand.jpeg
       cSlug: c5
-      name: "Fugiat laborum qui aliqua in"
-      description: Multiple language can be used for the content,
-        and the editor is available in 30 languages
-    - name: Ipsum cillum
+      name: Natural Selection
+      description: Natural selection is the process by which organisms with favorable traits survive and reproduce at a greater rate than those without such traits. In this simulation, the creatures with neural networks that are better at moving towards food are more likely to survive and reproduce. Over time, this leads to the evolution of neural networks that are good at moving towards food.
+    - name: Permanent simulation coming soon!
       cSlug: c2
-      description: Fugiat laborum qui aliqua in. In tempor esse aute sint Lorem. Dolor
-        velit qui anim sunt mollit excepteur ipsum mollit quis.
+      description: Currently, the simulation is not permanent. The simulation will restart after you close the page. However, I am working on optimizing the simulation so that it can run indefinitely. This will allow for more interesting behaviors to emerge in the long term.
       coverImage: /media/symetry.jpg
-fr:
-  title: Galeries
-  backgroundTitle: Galeries
-  portText: Esse est dolor anim velit sunt aliquip ipsum incididunt labore.
-  theme:
-    - name: Aquarelles
-      cSlug: c1
-      coverImage: /media/couple-cerf-aquarelle-vanessa-belleperche.jpg
-      description: Cellulose ethers comprise methylcellulose, ethylcellulose,
-        hydroxyethylcellulose, hydroxypropylcellulose, and their derivatives.
-    - name: Croquis
-      cSlug: c2
-      coverImage: /media/ecureuil-vanessa-belleperche.jpg
-      description: Kimpigment serials cover synthetic iron oxide and chrome oxide with
-        a wide range of color shade, and enjoy a good reputation due to the good
-        opacity
-    - name: Pastels
-      cSlug: c3
-      coverImage: /media/landscape.jpg
-      description: Kimix Titanium Dioxide covers both Rutile and Anatase types. With
-        year's development, it enjoys a good reputation in worldwide market for
-        the consistent quality, good whiteness, strong hiding power and reducing
-        power
-    - name: Peinture à l'huile
-      cSlug: c4
-      coverImage: /media/martin-pecheur-par-Vanessa-Belleperche.jpg
-      description: Kimpolyer re-dispersible polymer powders is spray dried
-        re-dispersible emulsion power, designed for the construction industry to
-        enhance the properties of dry mortar blends, able to re-dispersible in
-        water and  react with hydrate product of cement/gypsum and stuffing,
-        form composite membrane with good mechanics intensity
-    - name: Encre de chine
-      cSlug: c5
-      coverImage: /media/wave.jpg
-    - name: Les inclassables
-      cSlug: c6
-      coverImage: /media/salamandres-par-Vanessa-Belleperche.jpg

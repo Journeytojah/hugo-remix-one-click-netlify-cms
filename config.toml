@@ -4,8 +4,8 @@ defaultContentLanguage = 'en'
 
 
 [params]
-  title = 'Remix, a theme for Hugo fully editable with Netlify CMS'
-  metaDescription = "Hugo + Netlify CMS + One click deploy to Netlify"
+  title = 'Evolution Engine - Understanding the world through the lens of evolution'
+  metaDescription = "Evolution Engine is a project that aims to explain the world through the lens of evolution. It's a simulation of evolution that allows you to see how different factors affect the evolution of a population of creatures."
 
 
 # Languages
