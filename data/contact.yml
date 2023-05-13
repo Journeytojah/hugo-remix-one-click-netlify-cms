@@ -1,17 +1,16 @@
 en:
   backgroundTitle: Contact
-  phone: +86 571 1234 5678
-  detail: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
-    provident, eum eligendi blanditiis ex explica
-  location: Rennes, Bretagne
-  subtitle:
-  title: <span>Contact</span> Us
-  languages: English, French, German
-  email: contact@example.org
-  fax: +86 571 1234 5678
+  phone: ""
+  detail: If you want to get in touch
+  location: "Bangkok, Thailand "
+  subtitle: null
+  title: <span>Contact</span> Me
+  languages: English
+  email: contact@evolution-engine.ai
+  fax: ""
 fr:
   backgroundTitle: Contact
-  phone: "+86 571 1234 5678"
+  phone: +86 571 1234 5678
   detail: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
     provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis
     asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore
